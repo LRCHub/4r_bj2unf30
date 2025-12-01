@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "RELAY（パワフルプロ野球2024-2025主題歌　ロングバージョン）",
+  "base_artist": "藤原美慶",
+  "createdAt": "2025-12-01T06:23:49.524573Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RELAY（パワフルプロ野球2024-2025主題歌　ロングバージョン）",
+      "artist": "藤原美慶",
+      "has_synced": true,
+      "path": "select/01_RELAY(パワフルプロ野球2024-2025主題歌_ロングバージョン)_藤原美慶.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Relayers",
+      "artist": "RAMM feat.ayami",
+      "has_synced": false,
+      "path": "select/pl_01_Relayers_RAMM_feat.ayami.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Relay Runner",
+      "artist": "RAMM feat.ayami",
+      "has_synced": false,
+      "path": "select/pl_02_Relay_Runner_RAMM_feat.ayami.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Relay",
+      "artist": "RAMM feat.ayami",
+      "has_synced": false,
+      "path": "select/pl_03_Relay_RAMM_feat.ayami.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Relay",
+      "artist": "RAMM feat.ayami",
+      "has_synced": false,
+      "path": "select/pl_04_Relay_RAMM_feat.ayami.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "relay",
+      "artist": "RAMM feat.ayami",
+      "has_synced": false,
+      "path": "select/pl_05_relay_RAMM_feat.ayami.txt"
+    }
+  ]
+}
